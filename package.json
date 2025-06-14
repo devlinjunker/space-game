@@ -1,0 +1,31 @@
+{
+    "name": "pixijs-game",
+    "version": "1.0.0",
+    "description": "A simple game built with Pixi.js and Next.js",
+    "main": "index.js",
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start"
+    },
+    "keywords": [
+        "pixi.js",
+        "game",
+        "canvas",
+        "web",
+        "nextjs"
+    ],
+    "author": "",
+    "license": "MIT",
+    "dependencies": {
+        "next": "^14.0.0",
+        "pixi.js": "^7.2.4",
+        "react": "^18.0.0",
+        "react-dom": "^18.0.0"
+    },
+    "devDependencies": {
+        "@types/node": "^24.0.1",
+        "@types/react": "^19.1.8",
+        "typescript": "5.8.3"
+    }
+}
